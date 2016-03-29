@@ -98,6 +98,7 @@ while True :
         val = id_num(1) + x
         num = start + val + b
     elif len(x) == 6 :
+        val = id_num(0) + x
         num = start + val + b
         
 
