@@ -94,11 +94,11 @@ while True :
     elif len(x) == 4 :
         val = id_num(2) + x
         num = start + val + b
-    elif len(x) == 6 :
+    elif len(x) == 5 :
         val = id_num(1) + x
         num = start + val + b
-    elif len(x) == 7 :
-        print "finish"
+    elif len(x) == 6 :
+        num = start + val + b
         exit()
 
     x = int(x)
