@@ -99,7 +99,7 @@ while True :
         num = start + val + b
     elif len(x) == 6 :
         num = start + val + b
-        exit()
+        
 
     x = int(x)
     print num
