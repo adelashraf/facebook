@@ -66,7 +66,6 @@ else :
 b=raw_input('          Write the last two number :')
 if len(b) == 2 :
     try :
-        b = int(b)
         x = '0'
     except ValueError :
         print "write num not else "
