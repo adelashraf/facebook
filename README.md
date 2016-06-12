@@ -1,5 +1,5 @@
 # facebook
-is a tool for getting Egyptian mobile number
+is a tool for getting Eg , Fr mobile number
 # how to use 
 choose the carrier and write the last two slot number 
 have fun 
